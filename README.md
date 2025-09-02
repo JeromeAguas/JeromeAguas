@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Jerome+Aguas;Linux+Engineer;Cybersecurity+Enthusiast;Always+Learning" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Jerome+Aguas;Linux+Engineer;Always+Learning" alt="Animated Title" />
 </p>
 
 
